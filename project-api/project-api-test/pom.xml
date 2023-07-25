@@ -95,7 +95,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.morewen.projectapitest.ProjectApiTestApplication</mainClass>
+                    <mainClass>com.morewen.api.test.ProjectApiTestApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>
