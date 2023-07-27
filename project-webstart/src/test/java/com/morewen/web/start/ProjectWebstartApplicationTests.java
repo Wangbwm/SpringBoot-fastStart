@@ -1,10 +1,10 @@
-package com.morewen.projectapi;
+package com.morewen.web.start;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjectApiApplicationTests {
+class ProjectWebstartApplicationTests {
 
     @Test
     void contextLoads() {
